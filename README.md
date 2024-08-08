@@ -13,7 +13,7 @@ Organization Endpoints:-<br>
  Method: GET<br>
 
  
- <img width="959" alt="GET Organization" src="https://github.com/user-attachments/assets/4280e11d-05be-41c5-bc23-92ee32dd1b36"><br><br>
+ <img width="959" alt="GET Organization" src="https://github.com/user-attachments/assets/46aa8108-a48a-40ad-b408-4467ab7eeb21"><br><br>
 
 
 
@@ -22,7 +22,7 @@ Organization Endpoints:-<br>
  Method: GET<br>
 
  
- <img width="960" alt="GET by ID Organization" src="https://github.com/user-attachments/assets/ccd82088-a6bb-4dd5-a734-01e6eaa772b4"><br><br>
+ <img width="960" alt="GET by ID Organization" src="https://github.com/user-attachments/assets/b9811d58-667f-48e7-be8e-0ae5259a3f4b"><br><br>
 
 
 
@@ -31,7 +31,7 @@ Organization Endpoints:-<br>
  Method: POST<br>
 
  
- <img width="960" alt="POST Organization" src="https://github.com/user-attachments/assets/0fb27996-82e4-4160-b78b-2dd4508f4b72"><br><br>
+ <img width="960" alt="POST Organization" src="https://github.com/user-attachments/assets/d709bdbc-3a5f-437c-8c11-323f901e0886"><br><br>
 
 
 
@@ -40,7 +40,7 @@ Organization Endpoints:-<br>
  Method: PUT, PATCH<br>
 
  
- <img width="960" alt="PUT Organization" src="https://github.com/user-attachments/assets/260768cb-d542-47a9-b6f6-a82ade8d6707"><br><br>
+ <img width="960" alt="PUT Organization" src="https://github.com/user-attachments/assets/a2800788-924b-4dbc-b35b-6c6564a4dd67"><br><br>
 
 
 
@@ -49,7 +49,7 @@ Organization Endpoints:-<br>
  Method: DELETE<br>
 
  
- <img width="960" alt="DELETE Organization" src="https://github.com/user-attachments/assets/c76e2f4a-7046-4947-9e50-89c2b8d2a021"><br><br>
+<img width="960" alt="DELETE Organization" src="https://github.com/user-attachments/assets/5cf77828-db3e-4a71-ac36-05ae19c0daf6"><br><br>
 
 
 
@@ -58,51 +58,51 @@ Organization Endpoints:-<br>
  1.List Role<br>
  URL: /api/role/<br>
  Method: GET<br>
- <img width="960" alt="GET Role" src="https://github.com/user-attachments/assets/578d0f36-e500-4028-9204-227ce40e22e2"><br><br>
+ <img width="960" alt="GET Role" src="https://github.com/user-attachments/assets/d9c90352-2791-4e59-90e0-0ebacf489eab"><br><br>
 
 2.Retrieve Role Details<br>
  URL: /api/role/{id}/<br>
  Method: GET<br>
- <img width="960" alt="GET by ID Role" src="https://github.com/user-attachments/assets/f37a8db5-519d-49da-a408-31ac680d9fb2"><br><br>
+ <img width="960" alt="GET by ID Role" src="https://github.com/user-attachments/assets/17a44bc4-7473-4f01-b3eb-aa5776c756f9"><br><br>
 
 3.Create Role<br>
  URL: /api/role/<br>
  Method: POST<br>
- <img width="959" alt="POST Role" src="https://github.com/user-attachments/assets/8a26c5a1-a47c-4596-bf08-644b59d0ccca"><br><br>
+ <img width="959" alt="POST Role" src="https://github.com/user-attachments/assets/1fe25f3f-0698-49d5-9329-7a050e936931"><br><br>
 
 4.Update Role Information<br>
  URL: /api/role/{id}/<br>
  Method: PUT, PATCH<br>
- <img width="960" alt="PUT Role" src="https://github.com/user-attachments/assets/2ab8567c-4d8e-4ce7-908f-1f0fd0a004c5"><br><br>
+ <img width="960" alt="PUT Role" src="https://github.com/user-attachments/assets/66401cb3-0cbc-460c-a986-7f5a136d32c0"><br><br>
 
 5.Delete Role<br>
  URL: /api/role/{id}/<br>
  Method: DELETE<br>
- <img width="960" alt="DELETE Role" src="https://github.com/user-attachments/assets/d6490bdf-1314-4dd5-8079-7fc6de5d801a"><br><br>
+ <img width="960" alt="DELETE Role" src="https://github.com/user-attachments/assets/71472f2b-08e9-4ffb-b5d7-665825e4c2f7"><br><br>
 
 
  User Endpoints:-<br>
 1.List User<br>
  URL: /api/user/<br>
  Method: GET<br>
- <img width="960" alt="GET User" src="https://github.com/user-attachments/assets/857b98c0-a602-4901-97a7-f1217d45092a"><br><br>
+ <img width="960" alt="GET User" src="https://github.com/user-attachments/assets/0e80ea7c-0ef2-467f-8f98-3a5185401106"><br><br>
 
 2.Retrieve User Details<br>
  URL: /api/user/{id}/<br>
  Method: GET<br>
- <img width="960" alt="GET by ID User" src="https://github.com/user-attachments/assets/cda674d2-4381-4a68-8e65-2e10642cd062"><br><br>
+ <img width="960" alt="GET by ID User" src="https://github.com/user-attachments/assets/5d89c8ee-adbf-4560-9d5a-3c0dd3ee7b41"><br><br>
 
 3.Create User<br>
  URL: /api/user/<br>
  Method: POST<br>
- <img width="960" alt="POST User" src="https://github.com/user-attachments/assets/8259e008-ccb3-4231-92b5-ccac3bb17e0f"><br><br>
+ <img width="960" alt="POST User" src="https://github.com/user-attachments/assets/8db1a1d8-4b67-4a13-abf2-1934c01d7790"><br><br>
 
 4.Update User Information<br>
  URL: /api/user/{id}/<br>
  Method: PUT, PATCH<br>
- <img width="960" alt="PUT User" src="https://github.com/user-attachments/assets/3e81cb56-69cf-409d-8183-586d0566d7a9"><br><br>
+ <img width="960" alt="PUT User" src="https://github.com/user-attachments/assets/a2a85045-d9e5-484b-b02a-cce3badd5991"><br><br>
 
 5.Delete User<br>
  URL: /api/user/{id}/<br>
  Method: DELETE<br>
- <img width="959" alt="DELETE User" src="https://github.com/user-attachments/assets/0c78b828-3aee-4ba1-99f1-6e3e9bfe6bf9"><br>
+ <img width="959" alt="DELETE User" src="https://github.com/user-attachments/assets/bb2575bf-09e7-408c-8211-fbbad1b1a432"><br>
